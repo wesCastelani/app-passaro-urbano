@@ -6,7 +6,7 @@ O App passaro urbano é uma aplicação que exibe ofertas de restaurantes e laze
 
 ### Features
 
-- [x] Liatagem de ofertas
+- [x] Listagem de ofertas
 - [x] Paginas para listagem de determinados tipos de ofertas
 - [x] Busca de ofertas com um input
 - [x] Carrinho de ofertas com todas as funções, adicionar +1  remover -1 e retirar do carinho 
