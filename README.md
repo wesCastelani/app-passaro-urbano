@@ -1,3 +1,21 @@
+
+
+# Descricão
+
+O App passaro urbano é uma aplicação que exibe ofertas de restaurantes e lazer
+
+### Features
+
+- [x] Liatagem de ofertas
+- [x] Paginas para listagem de determinados tipos de ofertas
+- [x] Busca de ofertas com um input
+- [x] Carrinho de ofertas com todas as funções, adicionar +1  remover -1 e retirar do carinho 
+- [x] Formulario para o cliente preencher suas informações que são submetidas para o banco
+
+## Necessario
+
+- É preciso iniciar o json-server com o comando json-server --watch banco-de-dados.json
+
 # App2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
